@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vpg-malta/static/css/main.6327ede7.css",
-    "main.js": "/vpg-malta/static/js/main.719bac9e.js",
+    "main.css": "/vpg-malta/static/css/main.b2d631bd.css",
+    "main.js": "/vpg-malta/static/js/main.a53246cd.js",
     "static/media/twitter.svg": "/vpg-malta/static/media/twitter.dc5bb0a1924931343cf0.svg",
     "index.html": "/vpg-malta/index.html",
     "static/media/instagram.svg": "/vpg-malta/static/media/instagram.7551e189e87bf6b82732.svg",
     "static/media/facebook.svg": "/vpg-malta/static/media/facebook.002c4f82a4865e793aab.svg",
-    "main.6327ede7.css.map": "/vpg-malta/static/css/main.6327ede7.css.map",
-    "main.719bac9e.js.map": "/vpg-malta/static/js/main.719bac9e.js.map"
+    "main.b2d631bd.css.map": "/vpg-malta/static/css/main.b2d631bd.css.map",
+    "main.a53246cd.js.map": "/vpg-malta/static/js/main.a53246cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.6327ede7.css",
-    "static/js/main.719bac9e.js"
+    "static/css/main.b2d631bd.css",
+    "static/js/main.a53246cd.js"
   ]
 }
