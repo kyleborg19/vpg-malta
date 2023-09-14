@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vpg-malta/static/css/main.79b579e8.css",
+    "main.js": "/vpg-malta/static/js/main.a0f32420.js",
+    "index.html": "/vpg-malta/index.html",
+    "main.79b579e8.css.map": "/vpg-malta/static/css/main.79b579e8.css.map",
+    "main.a0f32420.js.map": "/vpg-malta/static/js/main.a0f32420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b579e8.css",
+    "static/js/main.a0f32420.js"
+  ]
+}
