@@ -15,7 +15,7 @@ export default function ComingSoonJumbotron() {
           you'll be the first to know when it's ready
         </p>
         <div>
-          <button className="bg-red-700 duration-200 px-6 py-3 font-semibold shadow-sm rounded-lg text-lg text-stone-900 ">
+          <button className="bg-red-700 hover:bg-red-600 duration-200 px-6 py-3 font-semibold shadow-sm rounded-lg text-lg text-stone-900 ">
             Notify Me
           </button>
         </div>
