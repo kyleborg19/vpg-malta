@@ -1,8 +1,10 @@
+import Banner from "../Banner/Banner";
 import SocialMediaIcons from "../SocialMediaIcons/SocialMediaIcons";
 
 export default function ComingSoonJumbotron() {
   return (
-    <div className="font-alex bg-zinc-900 h-screen flex flex-col gap-3 items-center justify-between p-10">
+    <div className="font-alex bg-zinc-900 h-screen flex flex-col gap-3 items-center justify-between p-10 overflow-hidden relative">
+      <Banner />
       <div className="bg-vpg-malta bg-contain bg-no-repeat bg-center w-28 aspect-square animate-fade-down"></div>
       <div className="animate-fade flex flex-col justify-center gap-20">
         <p className="text-slate-100 text-9xl font-black tracking-wide">

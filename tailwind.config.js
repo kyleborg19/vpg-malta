@@ -27,11 +27,16 @@ module.exports = {
           "50%": { transform: "translateY(0)" },
           "100%": { opacity: 1 },
         },
+        "move-down": {
+          "0%": { transform: "translateY(-40px)" },
+          "100%": { transform: "translateY(0)" },
+        },
       },
       animation: {
         fade: "fade 2s ease-in-out",
         "fade-up": "fade-up 2s ease-in-out",
         "fade-down": "fade-down 2s ease-in-out",
+        "move-down": "move-down 1s ease-in-out",
       },
     },
   },
