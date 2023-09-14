@@ -1,9 +1,10 @@
 import './App.css';
+import ComingSoonJumbotron from './components/ComingSoonJumbotron/ComingSoonJumbotron';
 
 function App() {
   return (
     <div className="App">
-      <p>Test Site</p>
+      <ComingSoonJumbotron />
     </div>
   );
 }
