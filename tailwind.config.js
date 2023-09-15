@@ -8,6 +8,7 @@ module.exports = {
         facebook: "url('/src/assets/facebook.svg')",
         instagram: "url('/src/assets/instagram.svg')",
         twitter: "url('/src/assets/twitter.svg')",
+        football: "url('/src/assets/football.svg')",
       },
       fontFamily: {
         alex: "Alexandria, sans-serif",
